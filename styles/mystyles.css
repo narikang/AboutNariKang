@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blanchedalmond;
+    text-size-adjust: auto;
+
+}
+
+.white {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    text-sixe: 15px;
+}
+
+.bold {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+    color: rgb(230, 6, 6);
+}
+
+.oblique {
+    font-style: oblique;
+    color: cornflowerblue;
+}

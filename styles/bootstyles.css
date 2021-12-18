@@ -1,0 +1,28 @@
+.bright {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    text-sixe: xx-large;
+}
+
+.normal {
+    font-style: normal;
+    color: rgb(255, 255, 255);
+}
+
+.flex {
+    flex-direction: row;
+    border-color: rgb(197, 201, 197);
+}
+
+.float_left {
+    float: left;
+    padding: 30pt;
+    text-sixe: 150px;
+    background-color: none;
+}
+
+.nav {
+    background-color: black;
+    border-color: rgb(255, 255, 255);
+    border-width: 10pt;
+}
